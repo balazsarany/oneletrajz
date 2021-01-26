@@ -1,0 +1,46 @@
+* {
+    background-color: mediumspringgreen;
+    text-align: center;
+}
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 80px;
+}
+
+.kep1 {
+    float: left;
+}
+
+.kep2 {
+    float: right;
+}
+.kep3 {
+    width: 300px;
+    float: right;
+}
+
+.kep4 {
+    width: 300px;
+    float: left;
+}
+
+#igen {
+    color: red;
+
+}
+#nem {
+    background-color: yellow;
+}
+#koz {
+    text-align: center;
+    color: fuchsia;
+}
+.kep5 {
+    width: 200px;
+}
+#szin {
+    color: mediumblue;
+}
